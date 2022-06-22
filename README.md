@@ -1,5 +1,4 @@
 # web-Design-Group-assigment
-about internet
 Form a group and submit a paper with a maximum of  5 
 TITLE:-The Internet revolution in Ethiopia.
 your paper should answer the following  4 questions
